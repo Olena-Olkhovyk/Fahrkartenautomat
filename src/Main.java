@@ -21,7 +21,7 @@ public class Main {
         flaeche=seiteA*seiteB;
 
         //Ausgabe
-        System.out.println("Umfang = " + umfang + "cm");
-        System.out.println("Fläche = " + flaeche + "cm2");
+        System.out.println("Umfang1 = " + umfang + "cm");
+        System.out.println("Fläche1 = " + flaeche + "cm2");
     }
 }
